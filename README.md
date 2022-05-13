@@ -1,6 +1,6 @@
 # rest-api-and-angular
 
-my-app is from tutorial    https://www.youtube.com/watch?v=3dHNOWTI7H8
+my-app is from tutorial    https://www.youtube.com/watch?v=3dHNOWTI7H8 **Angular Crash Course**
 with small changes
 
 in tutorial is used json-server
